@@ -26,4 +26,4 @@ A simple Google Books search and save application built with React and Firebase.
 
 ## 🧑‍💻 Author
 
-Built using ❤️ by [Srushti Badukale]
+Built using ❤️ by Srushti Badukale
